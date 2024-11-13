@@ -1,0 +1,123 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "智慧党建"
+      }
+    },
+    {
+      "path": "pages/details/swiper",
+      "style": {}
+    },
+    {
+      "path": "pages/details/newxq",
+      "style": {}
+    },
+    {
+      "path": "pages/list/list",
+      "style": {}
+    },
+    {
+      "path": "pages/list/list_xq",
+      "style": {}
+    },
+    {
+      "path": "pages/details/lindao_xq",
+      "style": {}
+    },
+    {
+      "path": "pages/details/danwei_xq",
+      "style": {}
+    },
+    {
+      "path": "pages/details/ry_xq",
+      "style": {}
+    },
+    {
+      "path": "pages/details/nuanxin_xq",
+      "style": {}
+    },
+    {
+      "path": "pages/details/dianxin_xq",
+      "style": {}
+    },
+    {
+      "path": "pages/details/liang",
+      "style": {}
+    },
+    {
+      "path": "pages/details/huodong",
+      "style": {}
+    },
+    {
+      "path": "pages/details/huodong_xq",
+      "style": {}
+    },
+    {
+      "path": "pages/login/login",
+      "style": {}
+    },
+    {
+      "path": "pages/kaoshi/kaoshi",
+      "style": {}
+    },
+    {
+      "path": "pages/kaoshi/kaoshi_list",
+      "style": {}
+    },
+    {
+      "path": "pages/kaoshi/success",
+      "style": {}
+    },
+    {
+      "path": "pages/details/ry_list",
+      "style": {}
+    },
+    {
+      "path": "pages/details/huodong_list",
+      "style": {}
+    },
+    {
+      "path": "pages/index/notice_xq",
+      "style": {}
+    },
+    {
+      "path": "pages/details/weigui",
+      "style": {}
+    },
+    {
+      "path": "pages/details/jiegou",
+      "style": {}
+    },
+    {
+      "path": "components/right_con/right_con",
+      "style": {}
+    },
+    {
+      "path": "pages/xuanju/xuanju",
+      "style": {}
+    },
+    {
+      "path": "pages/xuanju/xuanju_xq",
+      "style": {}
+    },
+    {
+      "path": "pages/details/jiegou_xq",
+      "style": {}
+    },
+    {
+      "path": "pages/details/user_xq",
+      "style": {}
+    }
+  ],
+  "globalStyle": {
+    // "navigationBarTextStyle": "white",
+    // "navigationBarTitleText": "uni-app",
+    // "navigationBarBackgroundColor": "#007AFF",
+    // "backgroundColor": "#FFFFFF"
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "red",
+    "navigationStyle": "custom"
+  }
+}
